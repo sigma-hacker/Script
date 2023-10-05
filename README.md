@@ -19,7 +19,7 @@
 - [License](#license)
 
 
-> **Please note that the scripts or rewrite rules described below may require MITM to be enabled, and the generated root certificate needs to be manually installed and trusted in the system.**
+> **Please note that the scripts and rewrite rules described below may require MITM to be enabled, and the generated root certificate needs to be manually installed and trusted in the system.**
 
 ## Script Overview
 
