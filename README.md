@@ -1,4 +1,4 @@
-## TOC
+## TOC list
 - [TOC](#toc)
 - [Script Overview](#script-overview)
   - [Daily-Bonus Script](#daily-bonus-script)
@@ -50,7 +50,7 @@
 
 ---
 
-### Other Script
+### Other Script list
 
 |                         Application                          |                         Script name                          |       Description       |   Available    |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------------------: | :------------: |
